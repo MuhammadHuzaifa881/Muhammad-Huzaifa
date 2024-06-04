@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 👨‍💻 I am currently working on: Enhancing a React.js project with Redux integration to optimize state management and improve performance.<br>🤝 I am looking to collaborate on: Exciting React.js projects that focus on innovative UI/UX design and scalable frontend architecture.<br>🆘 I am looking for help with: Implementing advanced React Hooks and optimizing React component lifecycles for better performance.<br>📚 I am currently learning: Advanced techniques in React.js, including server-side rendering (SSR) and React performance optimization.<br>❓ Ask me about: How to build reusable UI components in React.js or integrating Redux for state management.<br>🎉 Fun fact: I am an avid gamer and love to explore new game development frameworks in my free time!
 
 
